@@ -1,0 +1,50 @@
+<map id="FiniteElement&lt; dim, spacedim &gt;" name="FiniteElement&lt; dim, spacedim &gt;">
+<area shape="rect" id="node4" href="$classFE__DGPNonparametric.html" title="FE_DGPNonparametric\l\&lt; dim, spacedim \&gt;" alt="" coords="504,5,666,44"/>
+<area shape="rect" id="node5" href="$classFE__Enriched.html" title="FE_Enriched\&lt; dim, spacedim \&gt;" alt="" coords="481,68,688,93"/>
+<area shape="rect" id="node6" href="$classFE__Nothing.html" title="FE_Nothing\&lt; dim, spacedim \&gt;" alt="" coords="484,901,685,927"/>
+<area shape="rect" id="node8" href="$classFE__Poly.html" title="FE_Poly\&lt; dim, spacedim \&gt;" alt="" coords="494,509,675,535"/>
+<area shape="rect" id="node15" href="$classFE__Poly.html" title="FE_Poly\&lt; PolynomialSpace\l\&lt; dim \&gt;, dim, spacedim \&gt;" alt="" coords="1023,112,1209,151"/>
+<area shape="rect" id="node19" href="$classFE__Poly.html" title="FE_Poly\&lt; TensorProductPolynomials\l\&lt; dim \&gt;, dim, spacedim \&gt;" alt="" coords="996,203,1236,241"/>
+<area shape="rect" id="node22" href="$classFE__Poly.html" title="FE_Poly\&lt; TensorProductPolynomials\lBubbles\&lt; dim \&gt;, dim, spacedim \&gt;" alt="" coords="996,481,1236,520"/>
+<area shape="rect" id="node23" href="$classFE__Poly.html" title="FE_Poly\&lt; TensorProductPolynomials\lConst\&lt; dim \&gt;, dim, spacedim \&gt;" alt="" coords="996,579,1236,617"/>
+<area shape="rect" id="node24" href="$classFE__Poly.html" title="FE_Poly\&lt; TensorProductPolynomials\l\&lt; dim, Polynomials::PiecewisePolynomial\l\&lt; double \&gt; \&gt;, dim, spacedim \&gt;" alt="" coords="983,343,1249,395"/>
+<area shape="rect" id="node25" href="$classFE__PolyFace.html" title="FE_PolyFace\&lt; dim, spacedim \&gt;" alt="" coords="480,1687,690,1712"/>
+<area shape="rect" id="node26" href="$classFE__PolyFace.html" title="FE_PolyFace\&lt; PolynomialSpace\l\&lt; dim&#45;1 \&gt;, dim, spacedim \&gt;" alt="" coords="1008,1647,1224,1685"/>
+<area shape="rect" id="node28" href="$classFE__PolyFace.html" title="FE_PolyFace\&lt; TensorProduct\lPolynomials\&lt; dim&#45;1 \&gt;, dim,\l spacedim \&gt;" alt="" coords="1017,1744,1215,1796"/>
+<area shape="rect" id="node31" href="$classFE__PolyTensor.html" title="FE_PolyTensor\&lt; dim,\l spacedim \&gt;" alt="" coords="511,1309,659,1348"/>
+<area shape="rect" id="node36" href="$classFE__PolyTensor.html" title="FE_PolyTensor\&lt; Polynomials\lRaviartThomas\&lt; dim \&gt;, dim,\l spacedim \&gt;" alt="" coords="1018,1331,1213,1383"/>
+<area shape="rect" id="node39" href="$classFE__PolyTensor.html" title="FE_PolyTensor\&lt; Polynomials\lBDM\&lt; dim \&gt;, dim, spacedim \&gt;" alt="" coords="1016,1572,1216,1611"/>
+<area shape="rect" id="node42" href="$classFE__PolyTensor.html" title="FE_PolyTensor\&lt; Polynomials\lNedelec\&lt; dim \&gt;, dim, spacedim \&gt;" alt="" coords="1006,1481,1226,1520"/>
+<area shape="rect" id="node43" href="$classFESystem.html" title="FESystem\&lt; dim, spacedim \&gt;" alt="" coords="489,1788,681,1813"/>
+<area shape="rect" id="node44" href="$classFiniteElement.html" title="FiniteElement\&lt; 2, 2 \&gt;" alt="" coords="511,1837,659,1863"/>
+<area shape="rect" id="node46" href="$classFiniteElement.html" title="FiniteElement\&lt; 1, spacedim \&gt;" alt="" coords="486,1887,684,1912"/>
+<area shape="rect" id="node48" href="$classFiniteElement.html" title="FiniteElement\&lt; dim,\l dim \&gt;" alt="" coords="515,961,654,1000"/>
+<area shape="rect" id="node49" href="$classFiniteElement.html" title="FiniteElement\&lt; dim \&gt;" alt="" coords="511,1936,658,1961"/>
+<area shape="rect" id="node2" href="$classSubscriptor.html" title="Subscriptor" alt="" coords="30,1288,119,1313"/>
+<area shape="rect" id="node3" href="$classFiniteElementData.html" title="FiniteElementData\&lt;\l dim \&gt;" alt="" coords="5,1337,144,1376"/>
+<area shape="rect" id="node7" href="$classFE__Nothing.html" title="FE_Nothing\&lt; dim \&gt;" alt="" coords="1048,924,1184,949"/>
+<area shape="rect" id="node9" href="$classFE__Q__Base.html" title="FE_Q_Base\&lt; PolynomialType,\l dim, spacedim \&gt;" alt="" coords="1014,419,1218,457"/>
+<area shape="rect" id="node17" href="$classFE__Poly.html" title="FE_Poly\&lt; PolynomialsP\l\&lt; dim \&gt;, dim \&gt;" alt="" coords="1034,656,1198,695"/>
+<area shape="rect" id="node18" href="$classFE__Poly.html" title="FE_Poly\&lt; TensorProductPolynomials\l\&lt; dim \&gt;, dim \&gt;" alt="" coords="996,740,1236,779"/>
+<area shape="rect" id="node21" href="$classFE__Poly.html" title="FE_Poly\&lt; PolynomialsRannacher\lTurek\&lt; dim \&gt;, dim \&gt;" alt="" coords="1006,829,1226,868"/>
+<area shape="rect" id="node10" href="$classFE__Q__Base.html" title="FE_Q_Base\&lt; TensorProduct\lPolynomials\&lt; dim \&gt;, dim,\l dim \&gt;" alt="" coords="1556,205,1747,257"/>
+<area shape="rect" id="node11" href="$classFE__Q__Base.html" title="FE_Q_Base\&lt; TensorProduct\lPolynomials\&lt; dim \&gt;, dim,\l spacedim \&gt;" alt="" coords="1556,293,1747,345"/>
+<area shape="rect" id="node12" href="$classFE__Q__Base.html" title="FE_Q_Base\&lt; TensorProduct\lPolynomialsBubbles\&lt; dim\l \&gt;, dim, spacedim \&gt;" alt="" coords="1556,491,1747,543"/>
+<area shape="rect" id="node13" href="$classFE__Q__Base.html" title="FE_Q_Base\&lt; TensorProduct\lPolynomialsConst\&lt; dim\l \&gt;, dim, spacedim \&gt;" alt="" coords="1556,592,1747,644"/>
+<area shape="rect" id="node14" href="$classFE__Q__Base.html" title="FE_Q_Base\&lt; TensorProduct\lPolynomials\&lt; dim, Polynomials\l::PiecewisePolynomial\&lt; double\l \&gt; \&gt;, dim, spacedim \&gt;" alt="" coords="1549,385,1755,451"/>
+<area shape="rect" id="node16" href="$classFE__DGP.html" title="FE_DGP\&lt; dim, spacedim \&gt;" alt="" coords="1560,97,1744,123"/>
+<area shape="rect" id="node20" href="$classFE__DGQ.html" title="FE_DGQ\&lt; dim, spacedim \&gt;" alt="" coords="1559,147,1744,172"/>
+<area shape="rect" id="node27" href="$classFE__FaceP.html" title="FE_FaceP\&lt; dim, spacedim \&gt;" alt="" coords="1555,1653,1748,1679"/>
+<area shape="rect" id="node29" href="$classFE__FaceQ.html" title="FE_FaceQ\&lt; dim, spacedim \&gt;" alt="" coords="1554,1783,1749,1808"/>
+<area shape="rect" id="node30" href="$classFE__TraceQ.html" title="FE_TraceQ\&lt; dim, spacedim \&gt;" alt="" coords="1552,1733,1751,1759"/>
+<area shape="rect" id="node32" href="$classFE__DGVector.html" title="FE_DGVector\&lt; PolynomialType,\l dim, spacedim \&gt;" alt="" coords="1009,1415,1222,1453"/>
+<area shape="rect" id="node37" href="$classFE__PolyTensor.html" title="FE_PolyTensor\&lt; Polynomials\lNedelec\&lt; dim \&gt;, dim \&gt;" alt="" coords="1018,1064,1213,1103"/>
+<area shape="rect" id="node38" href="$classFE__PolyTensor.html" title="FE_PolyTensor\&lt; Polynomials\lRaviartThomas\&lt; dim \&gt;, dim \&gt;" alt="" coords="1018,997,1214,1036"/>
+<area shape="rect" id="node40" href="$classFE__PolyTensor.html" title="FE_PolyTensor\&lt; Polynomials\lBDM\&lt; dim \&gt;, dim \&gt;" alt="" coords="1018,1156,1213,1195"/>
+<area shape="rect" id="node41" href="$classFE__PolyTensor.html" title="FE_PolyTensor\&lt; Polynomials\lABF\&lt; dim \&gt;, dim \&gt;" alt="" coords="1018,1251,1213,1289"/>
+<area shape="rect" id="node33" href="$classFE__DGVector.html" title="FE_DGVector\&lt; Polynomials\lRaviartThomas\&lt; dim \&gt;,\l dim, spacedim \&gt;" alt="" coords="1558,1364,1745,1416"/>
+<area shape="rect" id="node34" href="$classFE__DGVector.html" title="FE_DGVector\&lt; Polynomials\lBDM\&lt; dim \&gt;, dim, spacedim \&gt;" alt="" coords="1552,1549,1752,1588"/>
+<area shape="rect" id="node35" href="$classFE__DGVector.html" title="FE_DGVector\&lt; Polynomials\lNedelec\&lt; dim \&gt;, dim, spacedim \&gt;" alt="" coords="1542,1448,1762,1487"/>
+<area shape="rect" id="node45" href="$classFE__P1NC.html" title="FE_P1NC" alt="" coords="1075,1837,1157,1863"/>
+<area shape="rect" id="node47" href="$classFE__FaceQ_3_011_00_01spacedim_01_4.html" title="FE_FaceQ\&lt; 1, spacedim \&gt;" alt="" coords="1026,1887,1206,1912"/>
+</map>

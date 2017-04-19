@@ -1,0 +1,13 @@
+<map id="MGTransferBase&lt; VectorType &gt;" name="MGTransferBase&lt; VectorType &gt;">
+<area shape="rect" id="node3" href="$classMGLevelGlobalTransfer.html" title="MGLevelGlobalTransfer\l\&lt; VectorType \&gt;" alt="" coords="598,9,761,48"/>
+<area shape="rect" id="node5" href="$classMGTransferBase.html" title="MGTransferBase\&lt; LinearAlgebra\l::distributed::Vector\&lt; Number \&gt; \&gt;" alt="" coords="571,75,788,113"/>
+<area shape="rect" id="node8" href="$classMGTransferBase.html" title="MGTransferBase\&lt; BlockVector\l\&lt; number \&gt; \&gt;" alt="" coords="577,137,781,176"/>
+<area shape="rect" id="node10" href="$classMGTransferBase.html" title="MGTransferBase\&lt; Vector\l\&lt; number \&gt; \&gt;" alt="" coords="593,200,765,239"/>
+<area shape="rect" id="node2" href="$classSubscriptor.html" title="Subscriptor" alt="" coords="5,113,94,139"/>
+<area shape="rect" id="node4" href="$classMGTransferPrebuilt.html" title="MGTransferPrebuilt\l\&lt; VectorType \&gt;" alt="" coords="867,5,1005,44"/>
+<area shape="rect" id="node6" href="$classMGLevelGlobalTransfer_3_01LinearAlgebra_1_1distributed_1_1Vector_3_01Number_01_4_01_4.html" title="MGLevelGlobalTransfer\l\&lt; LinearAlgebra::distributed\l::Vector\&lt; Number \&gt; \&gt;" alt="" coords="844,68,1028,120"/>
+<area shape="rect" id="node7" href="$classMGTransferMatrixFree.html" title="MGTransferMatrixFree\l\&lt; dim, Number \&gt;" alt="" coords="1084,75,1240,113"/>
+<area shape="rect" id="node9" href="$classMGTransferBlock.html" title="MGTransferBlock\&lt; number \&gt;" alt="" coords="840,144,1032,169"/>
+<area shape="rect" id="node11" href="$classMGTransferBlockSelect.html" title="MGTransferBlockSelect\l\&lt; number \&gt;" alt="" coords="855,196,1017,235"/>
+<area shape="rect" id="node12" href="$classMGTransferSelect.html" title="MGTransferSelect\&lt; number \&gt;" alt="" coords="837,259,1035,284"/>
+</map>

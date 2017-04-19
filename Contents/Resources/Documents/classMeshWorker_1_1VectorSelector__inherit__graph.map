@@ -1,0 +1,7 @@
+<map id="MeshWorker::VectorSelector" name="MeshWorker::VectorSelector">
+<area shape="rect" id="node3" href="$classMeshWorker_1_1VectorDataBase.html" title="MeshWorker::VectorDataBase\l\&lt; dim, spacedim, Number \&gt;" alt="" coords="384,5,584,44"/>
+<area shape="rect" id="node4" href="$classMeshWorker_1_1VectorDataBase.html" title="MeshWorker::VectorDataBase\l\&lt; dim, spacedim, VectorType\l::value_type \&gt;" alt="" coords="807,35,1008,87"/>
+<area shape="rect" id="node2" href="$classSubscriptor.html" title="Subscriptor" alt="" coords="5,53,94,79"/>
+<area shape="rect" id="node5" href="$classMeshWorker_1_1VectorData.html" title="MeshWorker::VectorData\l\&lt; VectorType, dim, spacedim \&gt;" alt="" coords="1057,41,1261,80"/>
+<area shape="rect" id="node6" href="$classMeshWorker_1_1MGVectorData.html" title="MeshWorker::MGVectorData\l\&lt; VectorType, dim, spacedim \&gt;" alt="" coords="1311,41,1515,80"/>
+</map>

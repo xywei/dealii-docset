@@ -1,0 +1,15 @@
+<map id="MGLevelObject&lt; Object &gt;" name="MGLevelObject&lt; Object &gt;">
+<area shape="rect" id="node3" href="$classMGLevelObject.html" title="MGLevelObject\&lt; MatrixType \&gt;" alt="" coords="577,25,778,50"/>
+<area shape="rect" id="node4" href="$classMGLevelObject.html" title="MGLevelObject\&lt; LinearAlgebra\l::distributed::Vector\&lt; Number \&gt; \&gt;" alt="" coords="569,75,786,114"/>
+<area shape="rect" id="node5" href="$classMGLevelObject.html" title="MGLevelObject\&lt; std\l::shared_ptr\&lt; PointerMatrix\lBase\&lt; VectorType \&gt; \&gt; \&gt;" alt="" coords="586,138,769,190"/>
+<area shape="rect" id="node6" href="$classMGLevelObject.html" title="MGLevelObject\&lt; VectorType \&gt;" alt="" coords="576,214,779,239"/>
+<area shape="rect" id="node7" href="$classMGLevelObject.html" title="MGLevelObject\&lt; SparseMatrix\l\&lt; number \&gt; \&gt;" alt="" coords="576,263,779,302"/>
+<area shape="rect" id="node8" href="$classMGLevelObject.html" title="MGLevelObject\&lt; PointerMatrix\l\&lt; MatrixType, VectorType \&gt; \&gt;" alt="" coords="576,326,779,365"/>
+<area shape="rect" id="node9" href="$classMGLevelObject.html" title="MGLevelObject\&lt; PointerMatrix\l\&lt; RelaxationType, BlockVector\l\&lt; number \&gt; \&gt; \&gt;" alt="" coords="576,389,779,441"/>
+<area shape="rect" id="node10" href="$classMGLevelObject.html" title="MGLevelObject\&lt; SparsityPattern \&gt;" alt="" coords="564,465,791,490"/>
+<area shape="rect" id="node11" href="$classMGLevelObject.html" title="MGLevelObject\&lt; PointerMatrix\l\&lt; MatrixType, BlockVector\l\&lt; number \&gt; \&gt; \&gt;" alt="" coords="576,514,779,566"/>
+<area shape="rect" id="node12" href="$classMGLevelObject.html" title="MGLevelObject\&lt; Relaxation\lType \&gt;" alt="" coords="584,590,772,629"/>
+<area shape="rect" id="node14" href="$classMGLevelObject.html" title="MGLevelObject\&lt; Preconditioner\lType \&gt;" alt="" coords="572,653,783,691"/>
+<area shape="rect" id="node2" href="$classSubscriptor.html" title="Subscriptor" alt="" coords="5,333,94,358"/>
+<area shape="rect" id="node13" href="$classmg_1_1SmootherRelaxation.html" title="mg::SmootherRelaxation\l\&lt; RelaxationType, VectorType \&gt;" alt="" coords="841,590,1051,629"/>
+</map>

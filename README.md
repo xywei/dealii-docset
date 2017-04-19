@@ -1,4 +1,4 @@
-# dealii-docset
+# Deal.II DocSet
 
 Manually generated DocSets for [Deal.II](https://github.com/dealii/dealii).
 Tutorials and code-gallary are also included.

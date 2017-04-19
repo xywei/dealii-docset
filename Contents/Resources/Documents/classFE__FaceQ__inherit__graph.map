@@ -1,0 +1,7 @@
+<map id="FE_FaceQ&lt; dim, spacedim &gt;" name="FE_FaceQ&lt; dim, spacedim &gt;">
+<area shape="rect" id="node2" href="$classFE__PolyFace.html" title="FE_PolyFace\&lt; TensorProduct\lPolynomials\&lt; dim&#45;1 \&gt;, dim,\l spacedim \&gt;" alt="" coords="24,295,222,347"/>
+<area shape="rect" id="node3" href="$classFiniteElement.html" title="FiniteElement\&lt; dim,\l spacedim \&gt;" alt="" coords="48,93,187,132"/>
+<area shape="rect" id="node6" href="$classFE__PolyFace.html" title="FE_PolyFace\&lt; PolynomialType,\l dim, spacedim \&gt;" alt="" coords="139,181,350,220"/>
+<area shape="rect" id="node4" href="$classSubscriptor.html" title="Subscriptor" alt="" coords="5,12,94,37"/>
+<area shape="rect" id="node5" href="$classFiniteElementData.html" title="FiniteElementData\&lt;\l dim \&gt;" alt="" coords="118,5,256,44"/>
+</map>

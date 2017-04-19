@@ -1,0 +1,8 @@
+<map id="RefinementPossibilities&lt; dim &gt;" name="RefinementPossibilities&lt; dim &gt;">
+<area shape="rect" id="node2" href="$classRefinementCase.html" title="RefinementCase\&lt; dim \&gt;" alt="" coords="214,199,379,224"/>
+<area shape="rect" id="node3" href="$classRefinementCase.html" title="RefinementCase\&lt; TriaObject\l\&lt; 2 \&gt; ::dimension \&gt;" alt="" coords="623,113,816,152"/>
+<area shape="rect" id="node4" href="$classRefinementCase.html" title="RefinementCase\&lt; TriaObject\l\&lt; 3 \&gt; ::dimension \&gt;" alt="" coords="623,5,816,44"/>
+<area shape="rect" id="node5" href="$classRefinementCase.html" title="RefinementCase\&lt; G::\ldimension \&gt;" alt="" coords="645,281,795,320"/>
+<area shape="rect" id="node6" href="$classRefinementCase.html" title="RefinementCase\&lt; internal\l::Triangulation::TriaObject\l\&lt; dim \&gt; ::dimension \&gt;" alt="" coords="632,383,808,435"/>
+<area shape="rect" id="node7" href="$classRefinementCase.html" title="RefinementCase\&lt; internal\l::Triangulation::TriaObject\l\&lt; 1 \&gt; ::dimension \&gt;" alt="" coords="632,185,808,237"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="FE_DGBDM&lt; dim, spacedim &gt;" name="FE_DGBDM&lt; dim, spacedim &gt;">
+<area shape="rect" id="node2" href="$classFE__DGVector.html" title="FE_DGVector\&lt; Polynomials\lBDM\&lt; dim \&gt;, dim, spacedim \&gt;" alt="" coords="1179,57,1379,96"/>
+<area shape="rect" id="node3" href="$classFE__PolyTensor.html" title="FE_PolyTensor\&lt; Polynomials\lBDM\&lt; dim \&gt;, dim, spacedim \&gt;" alt="" coords="775,25,975,64"/>
+<area shape="rect" id="node4" href="$classFiniteElement.html" title="FiniteElement\&lt; dim,\l spacedim \&gt;" alt="" coords="193,27,333,65"/>
+<area shape="rect" id="node7" href="$classFE__PolyTensor.html" title="FE_PolyTensor\&lt; Polynomial\lType, dim, spacedim \&gt;" alt="" coords="382,55,571,93"/>
+<area shape="rect" id="node5" href="$classSubscriptor.html" title="Subscriptor" alt="" coords="30,5,119,31"/>
+<area shape="rect" id="node6" href="$classFiniteElementData.html" title="FiniteElementData\&lt;\l dim \&gt;" alt="" coords="5,55,144,93"/>
+<area shape="rect" id="node8" href="$classFE__DGVector.html" title="FE_DGVector\&lt; PolynomialType,\l dim, spacedim \&gt;" alt="" coords="768,88,981,127"/>
+</map>

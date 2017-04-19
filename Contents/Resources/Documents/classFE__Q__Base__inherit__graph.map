@@ -1,0 +1,17 @@
+<map id="FE_Q_Base&lt; PolynomialType, dim, spacedim &gt;" name="FE_Q_Base&lt; PolynomialType, dim, spacedim &gt;">
+<area shape="rect" id="node6" href="$classFE__Q__Base.html" title="FE_Q_Base\&lt; TensorProduct\lPolynomials\&lt; dim \&gt;, dim,\l dim \&gt;" alt="" coords="1338,5,1530,57"/>
+<area shape="rect" id="node8" href="$classFE__Q__Base.html" title="FE_Q_Base\&lt; TensorProduct\lPolynomials\&lt; dim \&gt;, dim,\l spacedim \&gt;" alt="" coords="1116,83,1307,135"/>
+<area shape="rect" id="node11" href="$classFE__Q__Base.html" title="FE_Q_Base\&lt; TensorProduct\lPolynomialsBubbles\&lt; dim\l \&gt;, dim, spacedim \&gt;" alt="" coords="1116,159,1307,211"/>
+<area shape="rect" id="node13" href="$classFE__Q__Base.html" title="FE_Q_Base\&lt; TensorProduct\lPolynomialsConst\&lt; dim\l \&gt;, dim, spacedim \&gt;" alt="" coords="1116,235,1307,287"/>
+<area shape="rect" id="node15" href="$classFE__Q__Base.html" title="FE_Q_Base\&lt; TensorProduct\lPolynomials\&lt; dim, Polynomials\l::PiecewisePolynomial\&lt; double\l \&gt; \&gt;, dim, spacedim \&gt;" alt="" coords="1109,311,1314,376"/>
+<area shape="rect" id="node2" href="$classFE__Poly.html" title="FE_Poly\&lt; PolynomialType,\l dim, spacedim \&gt;" alt="" coords="382,165,563,204"/>
+<area shape="rect" id="node3" href="$classFiniteElement.html" title="FiniteElement\&lt; dim,\l spacedim \&gt;" alt="" coords="193,165,333,204"/>
+<area shape="rect" id="node4" href="$classSubscriptor.html" title="Subscriptor" alt="" coords="30,144,119,169"/>
+<area shape="rect" id="node5" href="$classFiniteElementData.html" title="FiniteElementData\&lt;\l dim \&gt;" alt="" coords="5,193,144,232"/>
+<area shape="rect" id="node7" href="$classFE__Q.html" title="FE_Q\&lt; dim \&gt;" alt="" coords="1865,65,1965,91"/>
+<area shape="rect" id="node9" href="$classFE__Bernstein.html" title="FE_Bernstein\&lt; dim,\l spacedim \&gt;" alt="" coords="1592,59,1730,97"/>
+<area shape="rect" id="node10" href="$classFE__Q.html" title="FE_Q\&lt; dim, spacedim \&gt;" alt="" coords="1578,121,1744,147"/>
+<area shape="rect" id="node12" href="$classFE__Q__Bubbles.html" title="FE_Q_Bubbles\&lt; dim,\l spacedim \&gt;" alt="" coords="1587,171,1735,209"/>
+<area shape="rect" id="node14" href="$classFE__Q__DG0.html" title="FE_Q_DG0\&lt; dim, spacedim \&gt;" alt="" coords="1561,248,1761,273"/>
+<area shape="rect" id="node16" href="$classFE__Q__iso__Q1.html" title="FE_Q_iso_Q1\&lt; dim, spacedim \&gt;" alt="" coords="1554,331,1768,356"/>
+</map>
