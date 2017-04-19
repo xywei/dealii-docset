@@ -1,7 +1,7 @@
 # Deal.II DocSet
 
-Manually generated DocSets for [Deal.II](https://github.com/dealii/dealii).
-Tutorials and code-gallary are also included.
+The popurse is to have conveniently available offline documentation of the beloved [Deal.II](https://github.com/dealii/dealii) library.
+Tutorials and code-gallary are also included in the docset.
 All resourses are attributed to the authors of the library.
 
 # Useage
