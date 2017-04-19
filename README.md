@@ -1,2 +1,16 @@
 # dealii-docset
-Manually generated DocSets for Deal.II.
+
+Manually generated DocSets for [Deal.II](https://github.com/dealii/dealii).
+Tutorials and code-gallary are also included.
+All resourses are attributed to the authors of the library.
+
+# Useage
+
+The docset can be read offline by [Zeal](https://github.com/zealdocs/zeal).
+Simply clone this repo under the Zeal's DocSet storage directory (can be found by going to Zeal > Preferences > General),
+then restart Zeal.
+
+```bash
+cd /path/to/Zeal/docsets
+git clone git@github.com:xywei/dealii-docset.git
+```
